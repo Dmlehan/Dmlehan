@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lehan Amanda</h1>
 <h3 align="center">A Software Engineering student</h3>
-
+<img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg">
 - 🌱 I’m currently learning **Html,Css,JS,**
 
 - 📫 How to reach me **dmlehanamanda@gmail.com**
