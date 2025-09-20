@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lehan Amanda ,full stack developer</h1>
 <h3 align="center">Nothing Impossible, A student at Ijse institute</h3>
-[[![WhatsApp Image 2025-09-20 at 05 36 46_068834a6](https://github.com/user-attachments/assets/86060154-e666-46a6-a5d3-f3ff5bc19bc4)](https://drive.google.com/file/d/1BeWnNkL_tpypH1U27_qE3xTDiXkFEMGx/view?usp=drivesdk )](https://drive.google.com/file/d/1BeWnNkL_tpypH1U27_qE3xTDiXkFEMGx/view?usp=drivesdk )
+https://drive.google.com/file/d/1BeWnNkL_tpypH1U27_qE3xTDiXkFEMGx/view?usp=drivesdk 
 
 
 ## 🌐 Socials:
