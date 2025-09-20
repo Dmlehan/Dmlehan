@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lehan Amanda ,full stack developer</h1>
 <h3 align="center">Nothing Impossible, A student at Ijse institute</h3>
-https://github.com/Dmlehan/Dmlehan/blob/main/WhatsApp%20Image%202025-09-20%20at%2005.36.46_068834a6.jpg?raw=true
+![Banner](https://github.com/Dmlehan/Dmlehan/blob/main/WhatsApp%20Image%202025-09-20%20at%2005.36.46_068834a6.jpg?raw=true)
 
 
 ## 🌐 Socials:
