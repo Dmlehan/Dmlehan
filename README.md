@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lehan Amanda ,full stack developer</h1>
 <h3 align="center">Nothing Impossible, A student at Ijse institute</h3>
-![Banner](https://github.com/Dmlehan/YourRepo/blob/main/images/banner.png?raw=true)
 
 
 ## 🌐 Socials:
