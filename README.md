@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lehan Amanda ,full stack developer</h1>
 <h3 align="center">Nothing Impossible, A student at Ijse institute</h3>
 
+<p align="center">
+ <img src="Assets/images/background image.jpg" width="400px" />
+
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lehan_amanda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lehan-amanda) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20488862/dissanayaka-lehan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@dissanayakalehan5292)
