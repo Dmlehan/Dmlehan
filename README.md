@@ -1,5 +1,5 @@
 <h1 align="center">Lehan Amanda | Full-Stack Developer</h1>
-<h3 align="center">Nothing Impossible, A student at Ijse institute</h3>
+**🚀 Never Give up | 🪼 Water Enthusiast | 💡 Tech Explorer**
 
 <p align="center">
  <img src="Assets/images/background image.jpg" width="400px" />
