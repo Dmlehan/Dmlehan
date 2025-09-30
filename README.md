@@ -1,6 +1,6 @@
 <h1 align="center">Lehan Amanda | Full-Stack Developer</h1>
  <div align="center">
- **🚀 Never  Give up | 🪼 Game Changer | 💡 Positive Vibe**
+ **🚀 Never  Give up | 🪼 Game Changer  | 💡 Positive Vibe**
  </div>
 <p align="center">
  <img src="Assets/images/background image.jpg" width="400px" />
