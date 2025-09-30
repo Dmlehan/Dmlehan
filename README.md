@@ -1,4 +1,4 @@
-<h1 align="center">Lehan Amanda | Full-Stack Developer</h1>
+<h1 align="center">Lehan Amanda | Full-Stack Developer(IT consultant)</h1>
  <div align="center">
  **🚀 Never  Give up | 🪼 Game Changer  | 💡 Positive Vibe**
  </div>
