@@ -1,6 +1,6 @@
 <h1 align="center">Lehan Amanda | Full-Stack Developer</h1>
  <div align="center">
- **🚀 Never Give up | 🪼 Water Enthusiast | 💡 Tech Explorer**
+ **🚀 Never Give up | 🪼Game Changer | 💡 Tech Explorer**
  </div>
 <p align="center">
  <img src="Assets/images/background image.jpg" width="400px" />
