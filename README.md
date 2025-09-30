@@ -1,4 +1,4 @@
-<h1 align="center">  Lehan Amanda | full stack developer</h1>
+<h1 align="center">Lehan Amanda | Full-Stack Developer</h1>
 <h3 align="center">Nothing Impossible, A student at Ijse institute</h3>
 
 <p align="center">
