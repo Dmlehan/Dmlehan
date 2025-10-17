@@ -1,6 +1,7 @@
 <h1 align="center"> Software Engineer(IT consultant)</h1>
  <div align="center">
- **🚀 Never  Give up | 🪼 Game Changer  | 💡 Positive Vibe**
+Happiness is important.
+ 
  </div>
 <p align="center">
  <img src="Assets/images/background image.jpg" width="400px" />
