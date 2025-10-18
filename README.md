@@ -1,6 +1,6 @@
 <h1 align="center"> Software Engineer(IT consultant)</h1>
  <div align="center">
-Happiness is important.
+Happiness is important.(Sun Baby MMIV.II.XVIII) is a brand.
  
  </div>
 <p align="center">
