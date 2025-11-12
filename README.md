@@ -1,7 +1,9 @@
 <h1 align="center"> Software Engineer(IT consultant)</h1>
  <div align="center">
-
- 
+<p align="center">
+  <img src="Assets/images/backgroundImage2.jpg" width="400px" />
+</p>
+  
  </div>
 
 ## 🌐 Socials:
