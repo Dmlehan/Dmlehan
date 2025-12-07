@@ -1,7 +1,7 @@
 <h1 align="center"> Software Engineer(IT consultant)</h1>
  <div align="center">
 <p align="center">
-  <img src="Assets/images/SunBaby%203.jpg" width="400px" />
+  <img src="Assets/images/SunBabyMMIV.jpg" width="400px" />
 </p>
   
  </div>
