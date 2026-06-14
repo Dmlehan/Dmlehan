@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="Assets/images/SunBaby%20(32).jpg" width="300"/>
+<img src="Assets/images/SunBabyLap.png width="300"/>
 </p>
 
 <p align="center">
